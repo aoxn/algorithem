@@ -8,6 +8,6 @@
 #ifndef _H_FULLARRANGE 
 #define _H_FULLARRANGE
 
-int arrange(char *a,char *b);
+void arrange(char *a,char *b);
 
 #endif
